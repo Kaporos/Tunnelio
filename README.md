@@ -2,6 +2,12 @@
 
 Tunnelio is a simple self hosted alternative to ngrok !
 
+## Experimentation
+
+This project is just for test purposes, if you really want a port forwarding solution, self host ngrok, a better solution 
+
+
+https://github.com/inconshreveable/ngrok
 ## Requirements
 
 - Docker
